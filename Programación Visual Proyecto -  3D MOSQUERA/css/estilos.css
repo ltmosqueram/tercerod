@@ -1,0 +1,18 @@
+P {
+font-size : 12pt;
+color:blue;
+font-family : arial,helvetica;
+font-weight : normal;
+}
+H1 {
+font-size : 36pt;
+font-family :  fantasy;
+text-align : center;
+background-color :#ffc107;
+color:fff;
+}
+BODY {
+background-color :#ffc107;
+font-family : arial;
+color :white;
+}
